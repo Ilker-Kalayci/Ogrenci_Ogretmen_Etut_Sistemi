@@ -1,0 +1,11 @@
+C:\Git Projeleri\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Git Projeleri\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Git Projeleri\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Git Projeleri\WindowsFormsApp1\obj\Debug\Ogrenci_Etut_Kayit_Sistemi.csproj.AssemblyReference.cache
+C:\Git Projeleri\WindowsFormsApp1\obj\Debug\Ogrenci_Etut_Kayit_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Git Projeleri\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Git Projeleri\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Git Projeleri\WindowsFormsApp1\obj\Debug\Ogrenci_Etut_Kayit_Sistemi.csproj.GenerateResource.cache
+C:\Git Projeleri\WindowsFormsApp1\obj\Debug\Ogrenci_Etut_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Git Projeleri\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Git Projeleri\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
